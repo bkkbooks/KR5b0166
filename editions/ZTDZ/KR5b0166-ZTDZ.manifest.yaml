@@ -1,0 +1,40 @@
+canonical_identifier: bkk:krp/KR5b0166/ZTDZ/v1
+canonical_location: https://kanripo.org/bkk/KR5b0166/ZTDZ/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 諸師聖誕沖舉酌獻儀
+  date: '2015-08-29 00:12:10.899570'
+  source:
+    repository: kanripo
+    path: KR5b0166
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+  edition:
+    short: ZTDZ
+    label: 【正統道藏・三家本】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR5b0166_000-ZTDZ.yaml, hash: 'sha256:f2007f073d1c33994aa1175ad8204e88a9980aa9c9e7359f3d837fd8b3e2bf82'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR5b0166_000-ZTDZ.markers.yaml, hash: 'sha256:38e03ef4057209b60e4e937e4c71eccb5fdf8c36b0d2e08fa3b3de16a56662c5'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR5b0166_SJB_000-090062c
+    span:
+    - body
+    - 0
+    - 3582
+  label: juan 000
+  type: section
+  level: 1
+hash: sha256:383546b9388ed4c3db2b8bcd51ee5712c391d4c3e3f39c614109aedf942b5097

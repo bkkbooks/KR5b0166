@@ -1,0 +1,40 @@
+canonical_identifier: bkk:krp/KR5b0166/HFL/v1
+canonical_location: https://kanripo.org/bkk/KR5b0166/HFL/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 諸師聖誕沖舉酌獻儀
+  date: '2015-08-29 00:12:10.899570'
+  source:
+    repository: kanripo
+    path: KR5b0166
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+  edition:
+    short: HFL
+    label: 【正統道藏・涵芬樓版】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR5b0166_000-HFL.yaml, hash: 'sha256:4c06d6804dfef20e205604d04ddc13e2cd22d6349b05db456b45e94f7d752c10'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR5b0166_000-HFL.markers.yaml, hash: 'sha256:2facf5f9f4601313a3f27777c7a54b103bda1d57495ae82e1935f786efa237ca'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR5b0166_HFL_000-001a
+    span:
+    - body
+    - 0
+    - 3582
+  label: juan 000
+  type: section
+  level: 1
+hash: sha256:c067f5a3a15b637cb32e92ffa4ea94dbeb0fc98d593637afef9e219735f71b29
